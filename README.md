@@ -26,7 +26,7 @@ Currently I'm learning and practicing web development  and algorithms,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,bootstrap,aws,azure,gcp" />
   </a>
 </p>
 <p align="center">
