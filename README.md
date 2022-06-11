@@ -1,8 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=MosFazli%20&fontAlignY=40&color=gradient)
  
 
-### :man_technologist: I'm Mostafa Fazli and I'm interested in programming and graphic design
-Currently I'm learning and practicing courses and algorithms,
+### :man_technologist: I'm Harshill Kumar and I'm interested in programming and web development
+Currently I'm learning and practicing web development  and algorithms,
 
 <img align='right' height='220' style="margin-right:20px" src='assets/programmer.png' alt='Programmer'>
 
@@ -16,10 +16,10 @@ Currently I'm learning and practicing courses and algorithms,
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
-[1]: https://twitter.com/MosFazli
-[2]: https://www.linkedin.com/in/mosfazli/
-[3]: https://www.instagram.com/mosfazli
-[4]: http://telegram.me/MosFazli
+[1]: https://twitter.com/HarshillK
+[2]: https://www.linkedin.com/in/harshiilll/
+[3]: https://www.instagram.com/harshiilll
+[4]: http://telegram.me/harshiilll
 
 <br>
 <h2>Skills</h2>
