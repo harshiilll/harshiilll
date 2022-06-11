@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=MosFazli%20&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Harshill_Kumar%20&fontAlignY=40&color=gradient)
  
 
 ### :man_technologist: I'm Harshill Kumar and I'm interested in programming and web development
@@ -37,8 +37,8 @@ Currently I'm learning and practicing web development  and algorithms,
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=harshiilll&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiilll&hide=html&layout=compact&theme=highcontrast" />
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
