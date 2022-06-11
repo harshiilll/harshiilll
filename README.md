@@ -40,6 +40,6 @@ Currently I'm learning and practicing web development  and algorithms,
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=harshiilll&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiilll&hide=html&layout=compact&theme=highcontrast" />
  
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ ![](./profile-3d-contrib/profile-gitblock.svg)
  
  </details>
