@@ -26,12 +26,12 @@ Currently I'm learning and practicing web development  and algorithms,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,redux,nextjs,vue,netlify,html,css,js,ts,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,bootstrap" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,materialui,python,django,mysql,sqlite,mongo,c,cpp,java,github" />
+    <img src="https://skillicons.dev/icons?i=firebase,python,mysql,mongo,c,cpp,java,github" />
   </a>
 </p>
 
