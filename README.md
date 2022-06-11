@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Harshill%20&fontAlignY=40&color=gradient)
  
 
-### :man_technologist: I'm Harshill Kumar and I'm interested in programming and web development
+### :man_technologist: I'm Harshill Kumar and I'm interested in software and web development
 Currently I'm learning and practicing web development  and algorithms,
 
 <img align='right' height='220' style="margin-right:20px" src='assets/programmer.png' alt='Programmer'>
