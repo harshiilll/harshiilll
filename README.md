@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Harshill Kumar%20&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Harshill%20&fontAlignY=40&color=gradient)
  
 
 ### :man_technologist: I'm Harshill Kumar and I'm interested in programming and web development
