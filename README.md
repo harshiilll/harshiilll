@@ -15,6 +15,7 @@ Currently I'm learning and practicing web development  and algorithms,
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
+[5.2]: https://skillicons.dev/icons?i=discord
 
 [1]: https://twitter.com/HarshillK
 [2]: https://www.linkedin.com/in/harshiilll/
