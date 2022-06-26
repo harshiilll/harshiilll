@@ -21,7 +21,7 @@ Currently I'm learning and practicing web development  and algorithms,
 [2]: https://www.linkedin.com/in/harshiilll/
 [3]: https://www.instagram.com/harshiilll
 [4]: http://telegram.me/harshiilll
-[5]: discordapp.com/users/598736886705422347
+[5]: https://discordapp.com/users/598736886705422347
 
 <br>
 <h2>Skills</h2>
