@@ -42,6 +42,6 @@ Currently I'm learning and practicing web development and data structures algori
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=harshiilll&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiilll&hide=html&layout=compact&theme=highcontrast" />
  
- ![](./profile-south-season-animate.svg)
+ ![](./profile-night-rainbow.svg)
  
  </details>
