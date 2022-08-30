@@ -42,7 +42,7 @@ Currently I'm learning and practicing web development and data structures algori
   </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient"/>
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
