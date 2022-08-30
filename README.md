@@ -33,12 +33,12 @@ Currently I'm learning and practicing web development and data structures algori
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,bootstrap,aws,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,js,bootstrap,aws,azure,gcp" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,python,mysql,mongo,c,cpp,java,github" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,mongo,c,cpp,java,github" />
   </a>
 </p>
 
