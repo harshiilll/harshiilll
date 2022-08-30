@@ -1,6 +1,11 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Harshill%20&fontAlignY=40&color=gradient)
+<div align="center" >
  
-
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Mostafa+Fazli;MosFazli;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+ 
+ </div>
+ 
 ### :man_technologist: I'm Harshill Kumar and I'm interested in software and web development
 Currently I'm learning and practicing web development and data structures algorithms,
 
@@ -37,11 +42,14 @@ Currently I'm learning and practicing web development and data structures algori
   </a>
 </p>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
 <details close="true">
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=harshiilll&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiilll&hide=html&layout=compact&theme=highcontrast" />
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
- ![](./profile-night-rainbow.svg)
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast" />
+ </div>
  
  </details>
