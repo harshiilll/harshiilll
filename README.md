@@ -50,8 +50,8 @@ Currently I'm learning and practicing web development and data structures algori
   ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
   <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MosFazli&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosFazli&hide=html&layout=compact&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=harshiilll&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiilll&hide=html&layout=compact&theme=highcontrast" />
  </div>
  
  </details>
