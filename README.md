@@ -9,7 +9,7 @@
 ### :man_technologist: I'm Harshill Kumar and I'm interested in software and web development
 Currently I'm learning and practicing web development and data structures algorithms,
 
-<img align='right' height='220' style="margin-right:20px" src='assets/programmer.png' alt='Programmer'>
+<img align='right' height='220' style="margin-right:20px" src='assets/programmer_g.gif' alt='Programmer'>
 
 <br>
 <h2>Social Networks</h2>
